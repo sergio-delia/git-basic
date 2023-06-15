@@ -6,3 +6,4 @@ git gui
 * ric 2
 * ric 3 
 * ricetta pollo
+* ricetta risotto 
