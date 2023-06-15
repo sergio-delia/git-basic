@@ -5,3 +5,4 @@ git gui
 * ric 1
 * ric 2
 * ric 3 
+* ricetta pollo
