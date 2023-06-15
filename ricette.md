@@ -8,3 +8,5 @@ git gui
 * ricetta pollo
 * ricetta risotto 
 * ric minestrone
+* ricetta pollo2
+
