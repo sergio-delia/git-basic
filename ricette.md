@@ -7,3 +7,4 @@ git gui
 * ric 3 
 * ricetta pollo
 * ricetta risotto 
+* ric minestrone
